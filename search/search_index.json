@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Mkdocs template","text":"<p>Template with most crucial references and plugins configured.</p> <p>Check <code>mkdocs.yml</code> to change the site details and repository.</p> <p>Have fun documenting.</p>"}]}
